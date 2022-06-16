@@ -1,0 +1,34 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 7db80e4..b9ec052 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,24 +1,6 @@[m
+[31m-# README[m
+[32m+[m[32m# Ruby on Rails Tutorial[m
+ [m
+[31m-This README would normally document whatever steps are necessary to get the[m
+[31m-application up and running.[m
+[32m+[m[32m## "hello world!"[m
+ [m
+[31m-Things you may want to cover:[m
+[31m-[m
+[31m-* Ruby version[m
+[31m-[m
+[31m-* System dependencies[m
+[31m-[m
+[31m-* Configuration[m
+[31m-[m
+[31m-* Database creation[m
+[31m-[m
+[31m-* Database initialization[m
+[31m-[m
+[31m-* How to run the test suite[m
+[31m-[m
+[31m-* Services (job queues, cache servers, search engines, etc.)[m
+[31m-[m
+[31m-* Deployment instructions[m
+[31m-[m
+[31m-* ...[m
+[32m+[m[32mThis is the first application for the [*Ruby on Rails Tutorial*](https://www.railsutorial.org/) by [Michael Hartl](https://www.michaelhartl.org/).[m
+[32m+[m[32mHello World![m
+\ No newline at end of file[m
